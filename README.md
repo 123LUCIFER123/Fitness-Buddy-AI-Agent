@@ -146,4 +146,12 @@ An intelligent AI assistant using IBM Watsonx.ai and Granite LLM to:
 - 📚 [IBM Granite Foundation Model](https://www.ibm.com/blog/foundation-models) – The LLM used in this project  
 - 🏋️ [MyFitnessPal](https://www.myfitnesspal.com) – Popular fitness & nutrition tracker  
 - 🍎 [Healthline - Nutrition](https://www.healthline.com/nutrition) – Trusted health & diet articles  
-- 🎓 [IBM SkillsBuild](https://skillsbuild.org) – Free learning platform to explore AI and cloud skills  
+- 🎓 [IBM SkillsBuild](https://skillsbuild.org) – Free learning platform to explore AI and cloud skills 
+
+---
+ 
+## 📄 Certificates
+
+- [IBM AI Internship Certificate](VIVEK_IBM_AI_CERTIFICATE.pdf)
+- [IBM Journey to Cloud Certificate](VIVEK_IBM_JORNEY_TO_CLOUD_CERTIFICATE.pdf)
+- [IBM RAG Certificate](VIVEK_IBM_RAG_CERTIFICATE.pdf)
